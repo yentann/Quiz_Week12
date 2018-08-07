@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="choose">Choose one website:</string>
+
+
+    <string-array name="socialmedia">
+        <item>facebook</item>
+        <item>twitter</item>
+    </string-array>
+
+
+
+    <string-array name="url">
+        <item>https://www.facebook.com</item>
+        <item>https://www.twitter.com</item>
+    </string-array>
+
+</resources>
